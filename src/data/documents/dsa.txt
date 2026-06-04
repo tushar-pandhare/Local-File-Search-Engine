@@ -1,0 +1,2 @@
+Java uses thread pools.
+Multithreading improves performance.

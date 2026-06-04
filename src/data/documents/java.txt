@@ -1,0 +1,4 @@
+LocalFileSearchEngineJava uses thread pools.
+Multithreading improves performance.
+
+Tushar pandhare this i
