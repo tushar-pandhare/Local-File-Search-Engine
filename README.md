@@ -22,15 +22,6 @@ The project is designed to demonstrate concepts related to:
 * Modular parser architecture
 * Extensible design for additional file types
 
-## Supported File Types
-
-* TXT
-* JAVA
-* JSON
-* XML
-* CSV
-* PDF
-
 ## Project Structure
 
 ```text id="9jqk1r"
@@ -96,10 +87,15 @@ The engine will return matching files containing the searched keyword.
 5. Tokens are stored inside an inverted index.
 6. Search queries retrieve matching files efficiently.
 
+## Output of Search Engine
+
+<img width="1028" height="190" alt="image" src="https://github.com/user-attachments/assets/b9e091c3-b311-47cd-ba86-cd9574dd2a14" />
+
+
+
 ## Technologies Used
 
 * Java
 * Java NIO
 * Collections Framework
 * Apache PDFBox
-
